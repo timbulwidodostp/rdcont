@@ -3,6 +3,8 @@ Approximate sign test for testing continuity of a density at a point Use rdcont 
 
 compute non-randomized approximate sign test of density continuity Use rdcont With STATA 18
 
+https://www.youtube.com/watch?v=3o3KxBhrK_A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
